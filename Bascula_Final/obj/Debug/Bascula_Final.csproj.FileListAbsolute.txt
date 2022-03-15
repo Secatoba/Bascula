@@ -1,0 +1,9 @@
+C:\Users\CES\source\repos\Bascula_Final\Bascula_Final\bin\Debug\Bascula_Final.exe.config
+C:\Users\CES\source\repos\Bascula_Final\Bascula_Final\bin\Debug\Bascula_Final.exe
+C:\Users\CES\source\repos\Bascula_Final\Bascula_Final\bin\Debug\Bascula_Final.pdb
+C:\Users\CES\source\repos\Bascula_Final\Bascula_Final\obj\Debug\Bascula_Final.Form1.resources
+C:\Users\CES\source\repos\Bascula_Final\Bascula_Final\obj\Debug\Bascula_Final.Properties.Resources.resources
+C:\Users\CES\source\repos\Bascula_Final\Bascula_Final\obj\Debug\Bascula_Final.csproj.GenerateResource.cache
+C:\Users\CES\source\repos\Bascula_Final\Bascula_Final\obj\Debug\Bascula_Final.csproj.CoreCompileInputs.cache
+C:\Users\CES\source\repos\Bascula_Final\Bascula_Final\obj\Debug\Bascula_Final.exe
+C:\Users\CES\source\repos\Bascula_Final\Bascula_Final\obj\Debug\Bascula_Final.pdb
